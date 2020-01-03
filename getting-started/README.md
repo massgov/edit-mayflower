@@ -4,7 +4,7 @@ We encourage all Commonwealth web properties to implement the Mayflower Design S
 
 ## Mayflower as branding
 
-The minimum Mayflower branding consists of [**colors**](../style/color.md) and [**fonts**](../style/typography.md)**.** Follow the design principles and usage in the [components](../components/) to have a more cohesive look. This is the first level of implementation which is the first step of making your product visually aligned with the others. Keep in mind that its accessibility, performance, responsiveness and browser-compatibility are not guaranteed this way. We highly recommend you to follow the other guidelines for web products and implement Mayflower as a living styleguide, apply Mayflower HTML, CSS and JS directly, and most preferably take advantage of the component libraries.
+The minimum Mayflower branding consists of [**colors**](../style/color.md) and [**fonts**](../style/typography.md)**.** Following the design principles and usage in [**components**](../components/) is the first step towards aligning your product visually with the other Commonwealth properties. However, merely 'skinning' your site or app with the  Mayflower look and feel will not provide accessibility, performance, responsiveness or browser-compatibility. We recommend implementing Mayflower as a living style guide, including its HTML, CSS and JS directly, to take full advantage of its component libraries.
 
 Other branding resources:
 

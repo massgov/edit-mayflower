@@ -19,9 +19,9 @@ The goals of Mayflower are:
 | [**MassDOT Open Data Portal**](https://geo-massdot.opendata.arcgis.com) | ArcGIS | MassDOT | Mayflower inspired |
 | [**Civil Services Eligibility Lists \(Entry level\)**](https://www.mass.gov/service-details/civil-service-eligible-lists) | ASP.NET | ANF | Mayflower as markup |
 | [**GIS Parcel Uploader**](https://uploads.massgis.digital.mass.gov/signup.html) | AWS S3 + Lambda + API Gateway | [EOTSS Digital Services Team](https://www.mass.gov/orgs/digital-services) | Mayflower as markup |
-| [**DTC  Form Release Search**](https://services.oca.state.ma.us/dtc/frmReleasedCalendar.aspx) | ASP.NET | DTC | Mayflower inspired |
+| [**DTC Form Release Search**](https://services.oca.state.ma.us/dtc/frmReleasedCalendar.aspx) | ASP.NET | DTC | Mayflower inspired |
 
-If you have a new implementation to add to this list, please [open an issue](https://github.com/massgov/mayflower-doc/issues/new) with the following information:
+If you have a new implementation to add to this list, please [**open an issue**](https://github.com/massgov/mayflower-doc/issues/new) with the following information:
 
 * The implementation’s target language and/or framework
 * The code repository if it is in Github or it is public 
